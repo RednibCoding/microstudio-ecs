@@ -3,6 +3,8 @@ BaseComponent = class
   _nextId = 1
   
 
+  
+
   // Is set by the deriving class/component and by this name,
   // components can refer/access each other
   name = ""
